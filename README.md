@@ -7,7 +7,6 @@
  
 I'm a {backend and mobile} developer actually working at [@JRPDV](https://www.jrpdb=v.com.br/).
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Website](https://mcachopas.com/) 💻 - Working on it.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mcachopas)](https://github.com/mcachopas)
